@@ -1,6 +1,5 @@
 # Tiny-Object-Detection
 小目标检测论文汇总
-Updated by [Xiang Chen](https://cxtalk.github.io/).
 
 ## 1 Description
    * DehazeZoo: A survey on haze removal from video and single image. Papers, codes and datasets are maintained.
